@@ -1,4 +1,4 @@
-#EXPERIMENT 1 - INTRODUCTION TO PYTHON PROGRAMMING
+# EXPERIMENT 1 - INTRODUCTION TO PYTHON PROGRAMMING
 
 ALPHABET SOUP PROBLEM
 - Create a function that takes a string and returns a string with its letter in alphabetized order.
